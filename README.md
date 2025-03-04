@@ -1,7 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4B0082&vCenter=true&width=500&height=50&lines=Hello%2C+my+name+is+Dono.;Welcome+to+my+GitHub!🚀)
-
-## 💫 About Me:
+## 👋 Hello, my name is Dono  
 I study at Muhammad al-Khwarizmi school'25<br>
 Interested in Mobile Development and AI (NLP+ Data Analysis)<br>
 Fun fact: I love cats 🐈<br>

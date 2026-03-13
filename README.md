@@ -1,6 +1,6 @@
 
 ## 👋 Hello, my name is Dono  
-I study at Muhammad al-Khwarizmi school'25<br>
+I study at Korea University'29. High School: Muhammad al-Khwarizmi school'25<br>
 Interested in Mobile Development and AI (NLP+ Data Analysis)<br>
 Fun fact: I love cats 🐈<br>
 
